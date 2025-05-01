@@ -1,4 +1,7 @@
-![snake gif](https://github.com/winl0gon/winl0gon/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/winl0gon/winl0gon/blob/output/github-snake-dark.svg" width="98%">
+</div>
+
 
 <!--
 ## Hi there 👋
