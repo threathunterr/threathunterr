@@ -2,9 +2,10 @@
   <img src="https://github.com/winl0gon/winl0gon/blob/output/github-snake-dark.svg" width="98%">
 </div>
 
-## Contributing
+## Contributes
 
 - [sift-saltstack](https://github.com/teamdfir/sift-saltstack)
+- [Cortex-Analyzer](https://github.com/TheHive-Project/Cortex-Analyzers/releases/tag/3.4.1)
 <!--
 ## Hi there 👋
 **winl0gon/winl0gon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
