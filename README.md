@@ -2,7 +2,9 @@
   <img src="https://github.com/winl0gon/winl0gon/blob/output/github-snake-dark.svg" width="98%">
 </div>
 
+## Contributing
 
+- [sift-saltstack](https://github.com/teamdfir/sift-saltstack)
 <!--
 ## Hi there 👋
 **winl0gon/winl0gon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
